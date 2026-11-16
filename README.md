@@ -1,12 +1,5 @@
-# HEAL AND MOVE — Jorhat
+# Heal & Move — GitHub Pages website
 
-GitHub Pages-ready static website.
+Updated the Lead Physiotherapist section to use the clinic's consultation photograph (`assets/images/fc893224e62d7c27.webp`) instead of the clinic banner. The hero illustration remains a temporary illustrative placeholder pending clinic approval.
 
-## Publish
-Upload the contents of this folder to the root of the GitHub Pages repository. Keep the `assets/` folder alongside `index.html`.
-
-## Preview notes
-The clinician/patient photographs have been replaced with clearly labelled illustrative SVG placeholders. Replace these only after the clinic approves the final photographs. The clinic banner, facility photographs and treatment media are retained.
-
-## Media
-Images and MP4 videos are stored separately under `assets/` rather than embedded as Base64 in the HTML, making the page easier to maintain.
+Upload the contents of this ZIP to the existing GitHub Pages repository, preserving the `assets` directory structure.

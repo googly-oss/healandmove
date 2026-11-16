@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="HM — Heal and Move">
+  <rect x="2" y="2" width="60" height="60" rx="15" fill="#0f766e"/>
+  <path d="M13 18v28h7V35h10v11h7V18h-7v10H20V18z" fill="#fff"/>
+  <path d="M39 46V18h6l7 10 7-10h2v28h-7V30l-2 3h-1l-2-3v16z" fill="#fff"/>
+</svg>

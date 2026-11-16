@@ -1,5 +1,10 @@
-# Heal & Move — GitHub Pages website
+# Heal & Move — GitHub Pages Website
 
-Updated the Lead Physiotherapist section to use the clinic's consultation photograph (`assets/images/fc893224e62d7c27.webp`) instead of the clinic banner. The hero illustration remains a temporary illustrative placeholder pending clinic approval.
+## Booking date restrictions
+- The preferred-date field automatically sets its minimum to the visitor's current local date.
+- Past dates are rejected.
+- Thursday appointments are rejected both during date validation and again on form submission.
+- Invalid dates cannot generate the WhatsApp booking request.
 
-Upload the contents of this ZIP to the existing GitHub Pages repository, preserving the `assets` directory structure.
+## Deployment
+Upload the contents of this folder to the existing GitHub Pages repository, keeping `index.html`, `contact.jpg`, and the `assets/` directory together.
